@@ -48,6 +48,3 @@ Asegúrate de tener **Python 3** instalado. La librería **Tkinter** suele venir
 ```bash
 python3 main.py
 
-Al ejecutar main.py, se inicializará la interfaz gráfica de la calculadora, demostrando la correcta integración entre los módulos de lógica y presentación.
-
-## ¡Espero que te guste este formato! Puedes copiar el bloque de código Markdown y pegarlo directamente en tu GitHub. ¡Mucho éxito con tu proyecto!
