@@ -1,0 +1,3 @@
+# Archivo de requerimientos para el proyecto CALCULATOR_PROJECT
+# Este proyecto utiliza únicamente bibliotecas estándar de Python (tkinter incluido)
+# No se requieren dependencias externas para instalar con pip
